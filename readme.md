@@ -1,4 +1,4 @@
-### API Endpoints
+### Golang Rate Limiter Implementation
 
 #### Endpoint yang Dilindungi (Rate Limited)
 
