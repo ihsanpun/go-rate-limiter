@@ -15,7 +15,7 @@
 ## Instalasi
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/ihsanpun/go-rate-limiter.git
 cd go-ratelimiter
 go mod tidy
 ```
